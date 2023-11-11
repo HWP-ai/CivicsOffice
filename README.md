@@ -1,3 +1,8 @@
+版本定义
+- Fact对标Pages和Word，帮助用户产生回答
+- Overview对标Excel，帮助用户分析数据
+- Abstract对标PowerPoint，帮助用户报告
+- 解用户的愁
 
 待完成
 - 自制一个 build system，并基于这个 build system 编译出一个版本
